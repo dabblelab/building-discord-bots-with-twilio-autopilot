@@ -1,4 +1,7 @@
+
 [![Run on Replit.com](https://repl.it/badge/github/dabblelab/building-discord-bots-with-twilio-autopilot)](https://repl.it/github/dabblelab/building-discord-bots-with-twilio-autopilot)
+
+![Cover Image](1408937-building-discord-bots-with-twilio-autopilot.png)
 
 # Building Discord Bots with Twilio Autopiot
 
