@@ -28,29 +28,29 @@ At high level, there are five topics that are covered.
 4. Authorization bot accesss to a Discord server
 5. Creating a bot handler service using replit.com
 
-### Creating a Twilio Autopilot FAQ bot
+### 1. Creating a Twilio Autopilot FAQ bot
 - Login at [twilio.com](https://twilio.com)
 - [Create a new bot](https://www.twilio.com/console/autopilot/build) from the FAQs pre-trained template
 - Create tasks to handel questions
 - Test the bot using the autopilot simulator
 - Note the `ACCOUNT SID`, `AUTH TOKEN`, and `ASSISTANT SID`
 
-### Setting up a Discord server
+### 2. Setting up a Discord server
 - Login at [discord.com](https://discord.com)
 - Create a new Discord server
 
-### Configuring a Discord bot application and bot user
+### 3. Configuring a Discord bot application and bot user
 - Login at [discord.com](https://discord.com)
 - [Create a new discord application](https://discord.com/developers/applications)
 - Create a Discord bot user
 - Setup OAuth2 
 - Note the Discord bot `TOKEN`
 
-### Authorization bot accesss to a Discord server
+### 4. Authorization bot accesss to a Discord server
 - Copy the Discord OAuth2 authorization URL
 - Authorize access to the Discord server
 
-### Creating a bot handler service using replit.com
+### 5. Creating a bot handler service using replit.com
 - Login to [replit.com](https://replit.com)
 - Visit the [GitHub repo with the handler code](https://github.com/dabblelab/building-discord-bots-with-twilio-autopilot)
 - Click the run on replit button to copy the code to replit.com
