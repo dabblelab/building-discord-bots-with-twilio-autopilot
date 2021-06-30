@@ -5,7 +5,7 @@
 
 # Building Discord Bots with Twilio Autopiot
 
-This repository contains the source code for the course [Building Discord Bots with Twilio Autopiot](https://learn.dabblelab.com/courses/building-discord-bots-with-twilio-autopilot). The course walks through creating a [Discord](https://discord.com) bot that uses [Twilio Autopilot](https://twilio.com/autopilot) to answer frequently asked questions. 
+This repository contains the source code for the mini-course [Building Discord Bots with Twilio Autopiot](https://learn.dabblelab.com/courses/building-discord-bots-with-twilio-autopilot). The course walks through creating a [Discord](https://discord.com) bot that uses [Twilio Autopilot](https://twilio.com/autopilot) to answer frequently asked questions. 
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@ To follow along, you'll need at least a free account with the following services
 
 The course walks through building a **Discord** bot that lets users get answers to frequently asked questions. **Twilio Autopilot** provides the AI for answering the questions, and **Replit.com** is used to host the bot code and for proxying requests between Discord and Autopilot. 
 
-At high level, there are five topics that are covered.
+At high level, there are five topics covered.
 
 1. Creating a Twilio Autopilot FAQ bot
 2. Setting up a Discord server
