@@ -18,7 +18,7 @@ To follow along, you'll need at least a free account with the following services
 
 ## Course Outline
 
-The course walks through building a **Discord** bot that lets users get answers to frequently asked questions. **Twilio Autopilot** provides the AI for answering the questions, and **Replit.com** is used to host the bot code and for proxying requests between Discord and Autopilot. 
+The course walks through building a **Discord** bot that lets users get answers to frequently asked questions. **Twilio Autopilot** provides the AI for answering the questions, and **Replit.com** is used for hosting a web service to proxy requests between Discord and Autopilot. 
 
 At high level, there are five topics covered.
 
