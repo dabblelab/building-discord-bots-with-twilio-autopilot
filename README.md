@@ -1,7 +1,7 @@
 
 [![Run on Replit.com](https://repl.it/badge/github/dabblelab/building-discord-bots-with-twilio-autopilot)](https://repl.it/github/dabblelab/building-discord-bots-with-twilio-autopilot)
 
-![Cover Image](1408937-building-discord-bots-with-twilio-autopilot.png)
+![Cover Image](./assets/1408937-building-discord-bots-with-twilio-autopilot.png)
 
 # Building Discord Bots with Twilio Autopiot
 
@@ -25,7 +25,7 @@ At high level, there are five topics covered.
 1. Creating a Twilio Autopilot FAQ bot
 2. Setting up a Discord server
 3. Configuring a Discord bot application and bot user
-4. Authorization bot accesss to a Discord server
+4. Authorizing bot access to a Discord server
 5. Creating a bot handler service using replit.com
 
 ### 1. Creating a Twilio Autopilot FAQ bot
@@ -46,7 +46,7 @@ At high level, there are five topics covered.
 - Setup OAuth2 
 - Note the Discord bot `TOKEN`
 
-### 4. Authorization bot accesss to a Discord server
+### 4. Authorizing bot access to a Discord server
 - Copy the Discord OAuth2 authorization URL
 - Authorize access to the Discord server
 
