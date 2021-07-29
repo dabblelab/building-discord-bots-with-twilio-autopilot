@@ -53,7 +53,7 @@ At high level, there are five topics covered.
 ### 5. Creating a bot handler service using replit.com
 - Login to [replit.com](https://replit.com)
 - Visit the [GitHub repo with the handler code](https://github.com/dabblelab/building-discord-bots-with-twilio-autopilot)
-- Click the run on replit button to copy the code to replit.com
+- Click the `run on replit` button to copy the code to replit.com
 - Setup the following secrets/environment variable in Replit
     - `TWILIO_ACCOUNT_SID`
     - `TWILIO_AUTH_TOKEN`
@@ -63,7 +63,7 @@ At high level, there are five topics covered.
 
 ## Testing the Discord bot
 
-To test the Discord bot access the Discird server and ask a question in the following format.
+To test the Discord bot access the Discord server and ask a question in the following format.
 
 `!support {question}` - for example, `!support Can i move my service?`
 
